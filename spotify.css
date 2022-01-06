@@ -1,0 +1,88 @@
+*{font-family: 'Source Sans Pro', sans-serif;
+}
+.logo{padding-right: 400px;
+}
+.join{box-sizing:borderbox;
+    padding:25px 30px 75px 30px; box-sizing: content-box; width: 1200px; height: 550px;
+    background-color: #89f1af; 
+    }
+.list{background-color: black; color: white;
+    box-sizing: content-box;
+    width: 1250px;
+    font-family: 'Source Sans Pro', sans-serif; font-weight: 200;display: 
+    flex;justify-content: right;
+}
+li{padding-left: 20px;padding: 30px; 
+}
+
+
+h2{font-family:'Source Sans Pro', sans serif; font-size: 55px;
+}
+.smaller{font-family:'Source Sans Pro', sans serif; font-size: 20px;
+}
+.headings{color: #1b3b6f; box-sizing: content-box; 
+    width: 750px; 
+}
+.lava{float: right; 
+}
+button{
+    background-color:#202F72 ;
+    border: 2px solid #89f1af; width: 200px;
+    color: #89f1af;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 6px;
+    border-radius: 35px;
+  }
+.terms{color: #202F72; font-size: 10px;}
+.wrapped{
+    background-color: #F46EBE; box-sizing:borderbox;
+    padding:25px 0px 0px 30px;  box-sizing: content-box; width: 1220px; height: 573px;
+    }
+
+h3{font-size: 60px;
+}
+.wrappedlogo{float: right;
+}
+.but{font-size: 20px;
+}
+
+
+.free{background-color: #2941ab; color:#1ed760;box-sizing:borderbox;
+    padding:0px 30px 75px 30px; box-sizing: content-box; width: 1200px; height: 550px;
+}
+.spot{display:flex;justify-content: center; 
+}
+
+.button2{background-color:#1ed760;
+    color:#2941ab;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 6px;
+    border-radius: 35px;
+}
+h4{font-size: 50px;
+}
+.final{background-color: black; color: white;
+    box-sizing: content-box;
+    width: 860px; height: 600px;
+    font-family: 'Source Sans Pro', sans-serif; font-weight: 200; display: flex; align-content: space-around;
+}
+#lists{padding-top: 15px; padding-bottom: 15px; 
+}
+.one{display:flex;flex-direction: column; font-size: small;
+}
+.two{display:flex;flex-direction: column; font-size: small; 
+}
+.three{display:flex;flex-direction: column; font-size: small;
+}
+.four{display: flex;
+}
+.five{display: flex;
+}
